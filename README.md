@@ -41,6 +41,6 @@ Daily adjusted stock price data for 10 US companies covering January 2019 to Jan
 
 ## Authors
 Group project – Universität Trier.
-Ridhima Lawane
-Shubham Darekar
-Abhiruchi Bharambe
+Ridhima Lawane.
+Shubham Darekar.
+Abhiruchi Bharambe.
